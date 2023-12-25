@@ -1,6 +1,6 @@
 {
   "name": "egg-psyduck-mysql",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Egg plugin for mysql",
   "author": "姜彦汐 <https://www.undsky.com>",
   "license": "MIT",
