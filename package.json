@@ -1,9 +1,17 @@
 {
-  "name": "egg-psyduck-mysql",
-  "version": "1.0.1",
+  "name": "ruoyi-eggjs-mysql",
+  "version": "1.1.0",
   "description": "Egg plugin for mysql",
   "author": "姜彦汐 <https://www.undsky.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/undsky/ruoyi-eggjs-mysql.git"
+  },
+  "bugs": {
+    "url": "https://github.com/undsky/ruoyi-eggjs-mysql/issues"
+  },
+  "homepage": "https://github.com/undsky/ruoyi-eggjs-mysql#readme",
   "eggPlugin": {
     "name": "mysql"
   },

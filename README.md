@@ -1,11 +1,11 @@
-# egg-psyduck-mysql
+# ruoyi-eggjs-mysql
 
 > Egg plugin for mysql
 
 ## 安装
 
 ```bash
-$ npm i egg-psyduck-mysql --save
+$ npm i ruoyi-eggjs-mysql --save
 ```
 
 ## 支持的 egg 版本
@@ -20,7 +20,7 @@ $ npm i egg-psyduck-mysql --save
 // {app_root}/config/plugin.js
 exports.mysql = {
   enable: true,
-  package: "egg-psyduck-mysql",
+  package: "ruoyi-eggjs-mysql",
 };
 ```
 
